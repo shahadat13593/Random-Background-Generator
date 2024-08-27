@@ -29,7 +29,7 @@ The project consists of three main files:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/random-background-generator.git ```
+  [ git clone https://github.com/your-username/random-background-generator.git](https://github.com/shahadat13593/Random-Background-Generator.git) ```
    
 2. Open index.html in your web browser.
 
@@ -37,4 +37,4 @@ The project consists of three main files:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Author
-Shahadat Hossain - [GitHub Profile](https://github.com/shahadat13593)
+### Shahadat Hossain - [GitHub Profile](https://github.com/shahadat13593)
