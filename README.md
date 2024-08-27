@@ -5,7 +5,6 @@ This project is a simple web-based **Random Background Generator** that allows u
 ## Features
 
 - **Random Background Color:** Changes the background color to a random RGB color on each button click.
-- **Responsive Design:** The design is mobile-friendly and adjusts to different screen sizes.
 - **Simple and Clean UI:** The user interface features a minimalistic design with a bold heading and a button to trigger the background change.
 
 ## Preview
