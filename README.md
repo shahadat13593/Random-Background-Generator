@@ -27,8 +27,7 @@ The project consists of three main files:
 ## Installation
 
 1. Clone the repository:
-   ```bash
-  [ git clone https://github.com/your-username/random-background-generator.git](https://github.com/shahadat13593/Random-Background-Generator.git) ```
+   ```bash [ git clone https://github.com/your-username/random-background-generator.git](https://github.com/shahadat13593/Random-Background-Generator.git) ```
    
 2. Open index.html in your web browser.
 
